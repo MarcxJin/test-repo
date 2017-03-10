@@ -1,5 +1,9 @@
 # Stochastic Processes Chapter 0
 
+<script type="text/javascript"
+scr = "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 ## 0.4&emsp;Exercises
 
 **0.1** &emsp;Find all functions $x(t),y(t)$ satisfying $$x'(t)=y(t)-x(t),$$ $$y'(t)=3x(t)-3y(t).$$  Find the particular pair of functions satisfying $x(0)=y(0)=1/2.$
